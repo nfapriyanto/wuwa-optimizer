@@ -135,3 +135,6 @@ scripts/
 
 .wrangler
 .turbo
+
+apps/web/public/characters
+!apps/web/public/characters/1102
